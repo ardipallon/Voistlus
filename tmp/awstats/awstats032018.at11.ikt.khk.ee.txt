@@ -1,0 +1,369 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/ardikristiin/tmp/awstats/awstats.at11.ikt.khk.ee.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2690                
+POS_VISITOR 8377                
+POS_DAY 9638                
+POS_DOMAIN 3284                
+POS_LOGIN 3571                
+POS_ROBOT 3726                
+POS_WORMS 3890                
+POS_EMAILSENDER 4021                
+POS_EMAILRECEIVER 4164                
+POS_SESSION 9747                
+POS_SIDER 9894                
+POS_FILETYPES 4299                
+POS_DOWNLOADS 4600                
+POS_OS 5655                
+POS_BROWSER 5778                
+POS_SCREENSIZE 5920                
+POS_UNKNOWNREFERER 5994                
+POS_UNKNOWNREFERERBROWSER 6189                
+POS_ORIGIN 6379                
+POS_SEREFERRALS 6517                
+POS_PAGEREFS 6661                
+POS_SEARCHWORDS 6809                
+POS_KEYWORDS 6961                
+POS_MISC 2354                
+POS_ERRORS 7020                
+POS_CLUSTER 3427                
+POS_SIDER_404 7166                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180307141242 8145 2839868 19783166483487
+FirstTime 0
+LastTime 20180307141242
+LastUpdate 20180307141630 8145 0 8145 0 0
+TotalVisits 18                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 173 560 22709249 25 40 243482
+10 590 1934 34999557 56 111 915773
+11 442 980 22211511 57 117 1049395
+12 242 939 30885633 27 82 2170670
+13 1057 2757 75902192 125 192 1782818
+14 225 448 11362768 16 18 84471
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ee 2714 7600 197765190
+cn 13 13 267022
+tw 1 1 22034
+sa 1 1 16433
+gb 0 3 231
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+nbot 22 316000 20180307141225 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+woff2 60 584924 0 0
+css 1729 5208851 0 0
+js 2645 18629446 0 0
+woff 52 148792 0 0
+png 260 14251257 0 0
+php 1975 128709739 0 0
+svg 49 54644 0 0
+jpg 59 1380784 0 0
+pdf 2 3769586 0 0
+html 642 25142169 0 0
+txt 33 2463 0 0
+gif 112 188255 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 14
+/.well-known/pki-validation/C132812429424C2833301ACA9BB2AF61.txt 12 0 924
+/.well-known/pki-validation/6A577ABC3296BDE7D0F19B1FA4C25C8F.txt 5 0 385
+/.well-known/pki-validation/DA2D390C716C2DABC4AF49DE82F4248C.txt 4 0 308
+/.well-known/pki-validation/24457026954AC2DC073711BF6B22DF2B.txt 3 0 231
+/.well-known/pki-validation/EB44788FDA259E92405DCBC7CCFF0595.txt 2 0 154
+/wordpress/wp-content/uploads/2018/03/KHK_logo_hor.pdf 1 0 1884793
+/.well-known/pki-validation/CB16AD58D99D152CDA3FEAAEDFEA54BE.txt 1 0 77
+/.well-known/pki-validation/FF1EF5BD5CE89BF500A5AA9EEE2C3C0D.txt 1 0 64
+/.well-known/pki-validation/64DCF5565EAE9C1334306FAA47A053EC.txt 1 0 64
+/.well-known/pki-validation/840D55CF4BF60F6982AF01607F52E2D8.txt 1 0 64
+/.well-known/pki-validation/357C1EFC0D4EE9C52659C5E2D615A053.txt 1 0 64
+/.well-known/pki-validation/52372104869F02E442AC54C5D58ED052.txt 1 0 64
+/wordpress/wp-content/uploads/2018/03/KHK_logo_hor-1.pdf 1 0 1884793
+/.well-known/pki-validation/5A235357515E4279E594D32E1E99CE23.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx 3133 1183
+win10 4428 1522
+winxp 15 15
+Unknown 42 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+msie6.0 15 15
+safari11.0.3 3132 1182
+chrome64.0.3282.186 4428 1522
+mozilla 1 1
+Unknown 42 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.9.4;_http://at11.ikt.khk.ee/wordpress 20180307133348
+COMODO_DCV 20180306143326
+\ 20180307135448
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+COMODO_DCV 20180306143326
+\ 20180307135448
+WordPress/4.9.4;_http://at11.ikt.khk.ee/wordpress 20180307133348
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 47 98
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2682 7520
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 9 28203
+302 204 0
+404 307 5890271
+400 1 115
+403 4 11056
+301 5 964
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/fonts/fontawesome-webfont.ttf 4 http://at11.ikt.khk.ee/wordpress/
+/wordpress/wp-content/themes/fetch/images/no-image-blog-full-width.png 205 http://at11.ikt.khk.ee/wordpress/
+/wordpress/contact/ 1 http://at11.ikt.khk.ee/wordpress/about/
+/wordpress/wp-content/themes/fetch/admin/css/admin.css.map 12 -
+/fonts/fontawesome-webfont.woff 4 http://at11.ikt.khk.ee/wordpress/
+/robots.txt 26 -
+/wordpress/wp-admin/admin-ajax.php 34 http://at11.ikt.khk.ee/wordpress/wp-admin/customize.php
+/cgi-bin/ 1 -
+/wordpress/a-homepage-section/ 1 http://at11.ikt.khk.ee/wordpress/
+/apple-touch-icon.png 5 -
+/apple-touch-icon-precomposed.png 5 -
+/fonts/fontawesome-webfont.svg 1 http://at11.ikt.khk.ee/wordpress/
+/wordpress/wp-content/wp-admin/images/xit.gif 4 http://at11.ikt.khk.ee/wordpress/wp-content/plugins/booking/core/any/css/admin-support.css
+/fonts/fontawesome-webfont.woff2 4 http://at11.ikt.khk.ee/wordpress/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 18
+193.40.62.14 2706 7562 197705035 20180307141242 20180307092330 /wordpress/wp-admin/customize.php
+193.40.62.9 8 38 60155 20180307133348 20180307132513 /wordpress/wp-cron.php
+27.27.25.66 1 1 22857 20180307133655 20180307133655 /wordpress/
+112.16.80.154 1 1 19699 20180307133741 20180307133741 /wordpress/
+117.32.154.182 1 1 22034 20180307133519 20180307133519 /wordpress/
+86.51.8.166 1 1 16433 20180307134200 20180307134200 /wordpress/
+112.112.154.28 1 1 17628 20180307134007 20180307134007 /wordpress/
+182.108.177.168 1 1 20209 20180307133254 20180307133254 /wordpress/
+175.8.64.167 1 1 22034 20180307133632 20180307133632 /wordpress/
+175.12.43.120 1 1 20209 20180307133300 20180307133300 /wordpress/
+119.182.153.165 1 1 17628 20180307133949 20180307133949 /wordpress/
+59.36.21.19 1 1 22063 20180307133455 20180307133455 /wordpress/
+114.40.53.225 1 1 22034 20180307133548 20180307133548 /wordpress/
+111.63.6.113 1 1 20209 20180307133240 20180307133240 /wordpress/
+222.42.146.225 1 1 20209 20180307133202 20180307133202 /wordpress/
+113.13.186.15 1 1 20209 20180307133206 20180307133206 /wordpress/
+118.122.139.152 1 1 22034 20180307133600 20180307133600 /wordpress/
+91.199.212.132 0 3 231 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20180306 0 33 2463 0
+20180307 2729 7585 198068447 18
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 64
+/wordpress/wp-admin/admin-ajax.php 1151 6609770 0 0
+/wordpress/ 354 12997709 15 0
+/wordpress/wp-admin/post.php 188 40208315 0 0
+/wordpress/wp-admin/edit.php 177 12275324 0 0
+/wordpress/wp-admin/load-scripts.php 118 9004478 0 0
+/wordpress/kalender/ 71 3176599 0 0
+/wordpress/erialad/ 60 2332900 0 0
+/wordpress/wp-admin/customize.php 58 34272365 0 0
+/wordpress/wp-admin/load-styles.php 54 4241321 0 0
+/wordpress/wp-admin/admin.php 36 5180215 0 0
+/wordpress/wp-admin/themes.php 35 1657687 0 0
+/wordpress/wp-content/themes/fetch/fonts/fontawesome-webfont.woff2 31 340680 0 0
+/wordpress/wp-admin/ 28 1683212 0 0
+/wordpress/wp-admin/post-new.php 26 5613762 0 0
+/wordpress/uudised/ 25 986288 0 0
+/wordpress/wp-content/plugins/siteorigin-panels/css/icons/panels-icons.woff 22 5360 0 0
+/wordpress/wp-admin/plugins.php 21 1180193 0 0
+/wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 21 122388 0 0
+/wordpress/wp-admin/options-general.php 17 1031770 0 0
+/wordpress/wp-admin/setup-config.php 16 74814 1 0
+/wordpress/home/ 15 867484 0 0
+/wordpress/wp-content/plugins/calendar-event/JS/fonts/fontawesome-webfont.woff2 14 71896 0 0
+/wordpress/erialad-2/ 14 860065 0 0
+/wordpress/wp-admin/theme-editor.php 13 1244208 0 0
+/ 11 8811 0 0
+/wordpress/konsultatsioonid/ 6 241381 0 0
+/wordpress/wp-includes/js/tinymce/wp-tinymce.php 9 1926891 0 0
+/wordpress/wp-admin/edit-tags.php 2 90446 0 0
+/wordpress/contact/ 3 56880 0 0
+/wordpress/wp-content/themes/hb-education/hummingbird/assets/fonts/fontawesome-webfont.woff2 7 154320 0 0
+/wordpress/wp-admin/plugin-install.php 7 544882 0 0
+/wordpress/129-2/ 1 35757 0 0
+/wordpress/wp-admin/media-new.php 1 41345 0 0
+/wordpress/uus/ 4 77296 0 0
+/wordpress/wp-cron.php 7 0 1 1
+/wordpress/a-homepage-section/ 9 355290 0 0
+/wordpress/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.woff 2 3840 0 0
+/wordpress/uuus/ 1 18944 0 0
+/wordpress/wp-admin/profile.php 2 88359 0 0
+/wordpress/wp-admin/options-discussion.php 2 83946 0 0
+/wordpress/wp-content/plugins/calendar-event/JS/skins/lightgray/fonts/tinymce.woff 7 17204 0 0
+/wordpress/praktika/ 7 292071 0 0
+/wordpress/wp-content/plugins/booking/assets/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2 8 18028 0 0
+/wordpress/wp-admin/tools.php 3 88757 0 0
+/wordpress/oppematerjalid/ 5 218940 0 0
+/wordpress/wp-login.php 4 9816 0 0
+/wordpress/2018/03/ 1 26151 0 0
+/wordpress/wp-admin/widgets.php 4 2334130 0 0
+/wordpress/2018/03/07/tartu-noored-juuksurid-voistlesid-peterburis-edukalt/ 5 141255 0 0
+/wordpress/wp-admin/nav-menus.php 2 200853 0 0
+/wordpress/2018/ 1 25910 0 0
+/wordpress/blogi/ 7 295778 0 0
+/wordpress/2018/03/07/hello-world/ 1 57923 1 0
+/wordpress/wp-admin/about.php 3 123663 0 0
+/wordpress/about/ 4 114768 0 0
+/wordpress/category/uncategorized/ 2 52670 0 0
+/wordpress/wp-admin/index.php 3 223878 0 0
+/wordpress/2018/03/07/tana-algavad-ulekoolilised-kutsevoistlused/ 1 28737 0 0
+/wordpress/wp-admin/async-upload.php 4 4941 0 0
+/wordpress/wp-admin/options-writing.php 5 172725 0 0
+/wordpress/wp-admin/options-reading.php 5 171563 0 0
+/wordpress/blog/ 4 111467 0 0
+/wordpress/wp-admin/install.php 2 9322 0 0
+/wordpress/sample-page/ 2 77883 0 0
+END_SIDER

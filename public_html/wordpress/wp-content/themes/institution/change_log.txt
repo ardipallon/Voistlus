@@ -1,0 +1,11 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Removed language folder, change theme prefix on some files and added escape functions.
+
+Version 1.1.1
+i) Added new theme url and removed irrelevant tag.
+
+Version 1.1.2
+i) Added pro theme url.
